@@ -63,3 +63,5 @@ Example:
 
 ```text
 [20, 15, 8]
+
+<p align="center"><img src="https://github.com/user-attachments/assets/4edb7413-6107-47b7-a814-cfc33d30bd32" alt="Interface Screenshot" width="900"/></p>
