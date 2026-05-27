@@ -16,6 +16,8 @@ The main objectives of this project are:
 - Minimize environmental impact
 
 -> Respect product demand limits
+
+
 -> Provide clear production recommendations through a graphical interface
 
 ---
